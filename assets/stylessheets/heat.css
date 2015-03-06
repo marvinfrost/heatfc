@@ -1,0 +1,151 @@
+
+body {
+	width: 100%;
+	height: 100%;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color: ;
+}
+header{
+	background-color:black;
+	color: white;
+	font-family: 'Lobster', cursive;
+}
+h4{
+	color: #A5B2B2;
+}
+h3{
+	color: #A5B2B2;
+	text-align: center;
+}
+.hero {
+	margin-left: 100px;
+}
+
+.inline{
+	display: inline-block;
+	color:white;
+}
+.uo{
+  padding-bottom: 20px;
+  text-align: left;
+  word-spacing: 20px;
+  list-style: none;
+  padding-top: 15px;
+  font-size: 40px;
+}
+
+#nav li {
+	list-style: none;
+	display: inline-block;
+	margin-left:5px;
+	text-transform: uppercase;
+	color:white;
+	font-size: 20px;
+}
+
+ nav{
+	text-decoration: none;
+	text-align: right;
+	float: right;
+	margin-right: 100px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+/*
+h3+p {
+color: navy; select a para imediately after h3 {adjacent selector}
+}*/
+
+.color{
+	text-align: center;
+	width: 100%;
+	font-family: 'Forum', cursive;
+}
+.topimg{
+ 	width: 100%;
+}
+.col{
+	flex-grow: 3;
+}
+
+.main {
+	display: flex;
+	font-family: 'Josefin Sans', sans-serif;
+    font-size: medium;
+}
+.col-1{
+	margin-left: 100px;
+}
+.col-2{
+	flex: 2;
+	list-style: none;
+	background-color: #eeeeee;
+	margin: 20px;
+	margin-right: 20px;
+	text-align: center;
+	height: 200px;
+	margin-right: 100px;
+} 
+.btn{
+	border:2px solid green;
+	color: #eeeeee;
+	background-color:white;
+	padding: 10px;
+	margin: 5px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.botton{
+	border:2px solid green;
+	color: white;
+	background-color: green;
+	padding: 10px;
+	margin: 5px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.btn:hover{
+	background-color:green;
+}
+
+.top{
+	border-top: 2px solid #eeeeee;
+	width: 500px;
+
+}
+
+.cloud {
+	background-color: #3A3E3E;
+}
+
+.gain{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.fill{
+   color: white;
+}
+.fill:hover{
+	background-color: #3A3E3E;
+}
+.box{
+  border: 2px solid black ;
+  width: 120px;
+  height: 90px;
+  margin-right: 20px;
+  float: left;
+}
+.box:hover{
+	border: 2px solid #3a8285;
+}
+.boxclear{
+	margin-bottom: 5px;
+}
+.oracle{
+	color: rgb(164, 230, 250);
+}
+
